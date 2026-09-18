@@ -1,0 +1,537 @@
+{
+  "liquids": [
+    {
+      "name": "Бустер",
+      "strength": "20mg",
+      "price_byn": "2"
+    },
+    {
+      "name": "CHROME PINK",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CHROME BASIC",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CHROME GENETIC",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CHROME SOUR",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CHROME NORTH",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CHROME PHOENIX",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "HOTSPOT x CATSWILL Killer",
+      "strength": "70mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "BJORN ZLOY V2.0",
+      "strength": "20mg (Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "BJORN ZLOY",
+      "strength": "60mg (Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "BJORN ZLOY LONG",
+      "strength": "80mg (Extra Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "BJORN ТЕМНЫЙ ХОР",
+      "strength": "80mg (Extra Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "BJORN JOKER",
+      "strength": "20mg (Extra Hard)",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "BJORN JOKER",
+      "strength": "20mg (Hard)",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "BJORN JOKER",
+      "strength": "20mg (Soft)",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "BJORN СОН ПРИЗРАКА",
+      "strength": "20mg (Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "BJORN СОН ПРИЗРАКА",
+      "strength": "20mg (Soft)",
+      "price_byn": "12"
+    },
+    {
+      "name": "VOZOL SALT PRIME",
+      "strength": "50mg",
+      "price_byn": "14"
+    },
+    {
+      "name": "LOST MARY ICE",
+      "strength": "20mg (Hard)",
+      "price_byn": "13"
+    },
+    {
+      "name": "LOST MARY ICE",
+      "strength": "20mg",
+      "price_byn": "12.5"
+    },
+    {
+      "name": "LOST MARY REGULAR",
+      "strength": "20mg (Hard)",
+      "price_byn": "13"
+    },
+    {
+      "name": "LOST MARY REGULAR",
+      "strength": "20mg",
+      "price_byn": "12.5"
+    },
+    {
+      "name": "LOST MARY SOUR",
+      "strength": "20mg (Hard)",
+      "price_byn": "13"
+    },
+    {
+      "name": "LOST MARY SOUR",
+      "strength": "20mg",
+      "price_byn": "12.5"
+    },
+    {
+      "name": "OGGO КILLERША",
+      "strength": "80mg",
+      "price_byn": "14"
+    },
+    {
+      "name": "ISTERIKA x САМОУБИЙЦА V2 DANGER",
+      "strength": "20mg (Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "MRAZZ!",
+      "strength": "70mg (Extra Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "MRAZZ! Sour",
+      "strength": "70mg (Extra Hard)",
+      "price_byn": "12"
+    },
+    {
+      "name": "TOXIC ALFA",
+      "strength": "20mg (Hard)",
+      "price_byn": "8"
+    },
+    {
+      "name": "УБИВАШКА",
+      "strength": "80mg (Extra Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "ELFLIQ Ice King",
+      "strength": "30mg",
+      "price_byn": "14"
+    },
+    {
+      "name": "ELFLIQ (Premium)",
+      "strength": "50mg",
+      "price_byn": "14"
+    },
+    {
+      "name": "HOT SPOT x МОНАШКА",
+      "strength": "70mg (Strong)",
+      "price_byn": "12.5"
+    },
+    {
+      "name": "DOGSWILL",
+      "strength": "20mg",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "SLIME PREMIUM LIQUID",
+      "strength": "60mg (Extra Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "ANNIMA LOVE KILLER",
+      "strength": "80mg (Extra Hard)",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "ANNIMA LOVE ZOMBI",
+      "strength": "20mg (Strong)",
+      "price_byn": "12"
+    },
+    {
+      "name": "RELL EAZY",
+      "strength": "2% (Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "RICK and MORTY RUSSIA",
+      "strength": "70mg (Extra Hard)",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "RICK and MORTY CATSWILL",
+      "strength": "20mg (Hard)",
+      "price_byn": "14"
+    },
+    {
+      "name": "Рик и Морти на ЗаМеРзОнЕ",
+      "strength": "20mg (Strong)",
+      "price_byn": "12"
+    },
+    {
+      "name": "RICK and MORTY BAD TRIP",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "RICK and MORTY BAD ICE",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "PODONKI x BLOOD",
+      "strength": "20mg",
+      "price_byn": "8.5"
+    },
+    {
+      "name": "PODONKI LAST HAP V2",
+      "strength": "20mg (Strong)",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "PODONKI CRITICAL",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "PODONKI PODGON",
+      "strength": "20mg",
+      "price_byn": "9"
+    },
+    {
+      "name": "Podonki & Анархия",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "PODONKI & MALASIAN V3",
+      "strength": "20mg (Strong)",
+      "price_byn": "10"
+    },
+    {
+      "name": "PODONKI INFERNO",
+      "strength": "20mg (Strong)",
+      "price_byn": "12.5"
+    },
+    {
+      "name": "EVIL HUSKY",
+      "strength": "20mg (Hard)",
+      "price_byn": "11"
+    },
+    {
+      "name": "Husky & Мишка",
+      "strength": "20mg (Strong)",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "Husky & Мишка",
+      "strength": "20mg",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "Husky Double Ice",
+      "strength": "20mg (Strong)",
+      "price_byn": "12"
+    },
+    {
+      "name": "Husky Double Ice",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "VLIQ SHOCK",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "Freeze Monkey Max Flavor",
+      "strength": "20mg",
+      "price_byn": "8"
+    },
+    {
+      "name": "CATSWILL EXTRA",
+      "strength": "20mg",
+      "price_byn": "12"
+    },
+    {
+      "name": "CATSWILL MONSTER CATS",
+      "strength": "20mg",
+      "price_byn": "13"
+    },
+    {
+      "name": "CATSWILL MONSTER HARD",
+      "strength": "20mg (Strong)",
+      "price_byn": "14"
+    },
+    {
+      "name": "CATSWILL",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "CATSWILL",
+      "strength": "20mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "CATSWILL SOUR",
+      "strength": "20mg (Strong)",
+      "price_byn": "11"
+    },
+    {
+      "name": "CATSWILL SOUR",
+      "strength": "20mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "САМОУБИЙЦА x ГРЕХ",
+      "strength": "2%",
+      "price_byn": "13"
+    },
+    {
+      "name": "САМОУБИЙЦА V2 ACID",
+      "strength": "70mg",
+      "price_byn": "12.5"
+    }
+  ],
+  "disposables": [
+    {
+      "name": "BJORN TRON 55k",
+      "strength": "2%",
+      "price_byn": "30"
+    },
+    {
+      "name": "RICK and MORTY The Anime 15000",
+      "strength": "2%",
+      "price_byn": "23"
+    },
+    {
+      "name": "RETURNS PULSE",
+      "strength": "15000 затяжек",
+      "price_byn": "19"
+    },
+    {
+      "name": "VOZOL VISTA",
+      "strength": "50mg / 40000 затяжек",
+      "price_byn": "30"
+    },
+    {
+      "name": "VOZOL RAVE",
+      "strength": "50mg / 40000 затяжек",
+      "price_byn": "30"
+    },
+    {
+      "name": "GTMBAR TURBO 30000",
+      "strength": "5%",
+      "price_byn": "26"
+    },
+    {
+      "name": "ELF BAR DUKE 20000",
+      "strength": "2%",
+      "price_byn": "32"
+    },
+    {
+      "name": "ELF BAR GH 23000 (Оригинал)",
+      "strength": "5%",
+      "price_byn": "31"
+    }
+  ],
+  "parts": [
+    {
+      "name": "Картридж Vaporesso XROS",
+      "detail": "",
+      "price_byn": "9"
+    },
+    {
+      "name": "Картридж Vaporesso XROS 4 / 4 mini / PRO",
+      "detail": "",
+      "price_byn": "10"
+    },
+    {
+      "name": "Картриджи Voopoo VMATE / V.HTRU",
+      "detail": "",
+      "price_byn": "10"
+    },
+    {
+      "name": "Картридж VooPoo VMATE MAX",
+      "detail": "0.4 Ом",
+      "price_byn": "11.5"
+    },
+    {
+      "name": "Испаритель VOOPOO PNP-TW/DW",
+      "detail": "",
+      "price_byn": "9.5"
+    },
+    {
+      "name": "Испаритель Geekvape B. Mesh Coil",
+      "detail": "",
+      "price_byn": "9.8"
+    },
+    {
+      "name": "Картридж Geekvape AP2",
+      "detail": "для Aegis Pod 2",
+      "price_byn": "11"
+    },
+    {
+      "name": "Испаритель Smoant Battlestar Baby Mesh Coil",
+      "detail": "",
+      "price_byn": "6.5"
+    },
+    {
+      "name": "Испаритель Smoant K-1 Mesh Coil",
+      "detail": "для Smoant Knight 80 и Pasito 2",
+      "price_byn": "7.5"
+    },
+    {
+      "name": "JELLYBOX NANO COIL",
+      "detail": "для Rancoe Jellybox Nano/xs",
+      "price_byn": "7"
+    }
+  ],
+  "pods": [
+    {
+      "name": "BRUSKO DABBLER NICE",
+      "detail": "650 мАч",
+      "price_byn": "8"
+    },
+    {
+      "name": "VAPORESSO XROS 6",
+      "detail": "1800 мАч",
+      "price_byn": "75"
+    },
+    {
+      "name": "VAPORESSO XROS 6 MINI",
+      "detail": "1600 мАч",
+      "price_byn": "55"
+    },
+    {
+      "name": "VAPORESSO XROS 5 NANO",
+      "detail": "1600 мАч",
+      "price_byn": "74"
+    }
+  ],
+  "pouches": [
+    {
+      "name": "ICEBERG",
+      "strength": "75mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "NIC",
+      "strength": "200mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "DUALL",
+      "strength": "200mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "АНАРХИЯ",
+      "strength": "150mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "ЗЛАЯ МОНАШКА",
+      "strength": "120mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "САМОУБИЙЦА",
+      "strength": "249mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "САМОУБИЙЦА (вариант 2)",
+      "strength": "249mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "МОНАШКА & ISTERIKA",
+      "strength": "201mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "DRYMOST",
+      "strength": "150mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "DRYMOST VOLT",
+      "strength": "75mg",
+      "price_byn": "11"
+    },
+    {
+      "name": "DRYMOST",
+      "strength": "50mg",
+      "price_byn": "10"
+    },
+    {
+      "name": "DRYMOST CLASSIC",
+      "strength": "25mg",
+      "price_byn": "10"
+    },
+    {
+      "name": "DRYMOST",
+      "strength": "5mg",
+      "price_byn": "10"
+    },
+    {
+      "name": "HOT SPOT x ISTERIKA",
+      "strength": "180mg",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "ISTERIKA x ГРЕХ",
+      "strength": "190mg",
+      "price_byn": "10.5"
+    },
+    {
+      "name": "ICEBURN White Portion",
+      "strength": "",
+      "price_byn": "10"
+    },
+    {
+      "name": "ICEBURN Ice Cool",
+      "strength": "",
+      "price_byn": "10"
+    }
+  ]
+}
